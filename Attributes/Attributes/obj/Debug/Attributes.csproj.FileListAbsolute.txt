@@ -1,0 +1,6 @@
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\bin\Debug\Attributes.exe.config
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\bin\Debug\Attributes.exe
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\bin\Debug\Attributes.pdb
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\obj\Debug\Attributes.exe
+c:\users\streamer\documents\visual studio 2015\Projects\Attributes\Attributes\obj\Debug\Attributes.pdb
